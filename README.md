@@ -72,4 +72,4 @@ This tool is especially helpful when dealing with reference lists from **unpubli
 
 ### 💡 Additional Notes
 
-* The tool is tested on **Windows**, but it can also run on **macOS** and **Linux** — just make sure to install the appropriate versions of Python and Ruby and run the script manually (since `.bat` files only work on Windows).
+* The tool is tested on **Windows**, but it can also run on **macOS** and **Linux** — just make sure to install the appropriate versions of Python and Ruby and run the script `src/main.py` manually (since `.bat` files only work on Windows).
