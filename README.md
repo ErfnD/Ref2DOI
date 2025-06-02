@@ -7,7 +7,7 @@
 * `titles.txt` – Contains the extracted titles
 * `differences.txt` – A list of references that might not have been correctly identified (so you can manually verify them)
 
-You can use the `dois.txt` file with this free tool to generate a `.RIS` file for easy import into EndNote, Zotero, or Mendeley:
+You can use the `dois.txt` file with this free tool to generate a `.ris` file for easy import into EndNote, Zotero, or Mendeley:
 👉 [CitationChaser](https://estech.shinyapps.io/citationchaser)
 
 This tool is especially helpful when dealing with reference lists from **unpublished** theses or articles. For already published papers, the website above can often extract references automatically.
